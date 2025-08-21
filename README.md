@@ -44,4 +44,26 @@ This project is a **full-stack clone of AirBnB**. The goal is to build a functio
   - Clear navigation  
   - Intuitive interfaces  
   - Responsive, mobile-first design
+### Color Styles
+- **Primary Color:** #FF5A5F  
+- **Secondary Color:** #00A699   
+- **Background Color:** #FFFFFF  
+- **Text:** #222222
+
+
+### Typography
+- **Primary Font:** Circular,Medium (500), 16px 
+- **Headings:** Circular, Bold (700), 24px-32px  
+- **BSecondary Text:** Circular, Book (400), 14px 
+
+
+
+### Importance of Identifying Design Properties
+Identifying the design properties of a mockup is crucial because:  
+- It ensures **consistency** across the application, keeping the UI visually cohesive.  
+- Developers can **accurately translate the design** into code without guessing colors, fonts, or spacing.  
+- It helps in maintaining **brand identity** and a professional look.  
+- Reduces **design-to-development friction**, speeding up implementation.  
+- Makes it easier to **update or scale** the design in future iterations.
+
   
