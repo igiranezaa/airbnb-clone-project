@@ -17,15 +17,15 @@ This project is a **full-stack clone of AirBnB**. The goal is to build a functio
 
 ### Design Goals
 - Create intuitive booking flow
--Maintain visual consistency
--Ensure fast loading times
--Prioritize mobile responsiveness  
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness
 
-### Key Features to Implement
+### Key Features
 - Property search and filtering
--Detailed property viewing
--Secure checkout process
--User authentication 
+- Detailed property viewing
+- Secure checkout process
+- User authentication
 
 ### Primary Pages Overview
 
