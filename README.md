@@ -1,4 +1,4 @@
-# airbnb-clone-project.
+# airbnb-clone-project
 ## Overview
 This project is a **full-stack clone of AirBnB**. The goal is to build a functional web application where users can browse property listings, view detailed information, and complete bookings. The project provides hands-on experience in frontend development, backend APIs, database design, and deployment.
 
