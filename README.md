@@ -66,4 +66,17 @@ Identifying the design properties of a mockup is crucial because:
 - Reduces **design-to-development friction**, speeding up implementation.  
 - Makes it easier to **update or scale** the design in future iterations.
 
+## Project Roles and Responsibilities
+
+| Role                  | Key Responsibilities                                                                 | Contribution to Project Success |
+|-----------------------|-------------------------------------------------------------------------------------|--------------------------------|
+| **Project Manager**    | Plan, organize, and oversee project lifecycle; manage timelines, resources, budgets; facilitate communication between team members and stakeholders. | Ensures the project stays on track, meets deadlines, and aligns with objectives. |
+| **Frontend Developers** | Implement UI based on designs; ensure responsive, interactive elements; integrate with backend APIs. | Create a smooth, visually appealing experience for users. |
+| **Backend Developers** | Build and maintain server-side logic and APIs; manage databases and security; implement authentication and business logic. | Ensure the application is functional, secure, and scalable. |
+| **Designers (UI/UX)** | Design wireframes, mockups, prototypes; define color schemes, typography, and user flows; conduct usability testing. | Provide an intuitive, visually consistent interface that enhances user experience. |
+| **QA/Testers**         | Test for bugs, performance issues, and usability problems; validate features against requirements; report issues. | Guarantee reliability, performance, and user satisfaction. |
+| **DevOps Engineers**   | Set up and maintain deployment pipelines and cloud infrastructure; ensure CI/CD; monitor server performance and security. | Keep the application running smoothly, securely, and efficiently. |
+| **Product Owner**      | Define project vision and requirements; prioritize features; communicate with stakeholders and team. | Ensure the project delivers value and aligns with user and business goals. |
+| **Scrum Master**       | Facilitate Agile ceremonies; remove blockers; promote Agile                                          |Ensures smooth Agile workflow, removes blockers for the team, and promotes effective collaboration, which helps the project stay on schedule and maintain high productivity.|
+
   
