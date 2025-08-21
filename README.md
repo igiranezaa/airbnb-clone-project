@@ -79,4 +79,24 @@ Identifying the design properties of a mockup is crucial because:
 | **Product Owner**      | Define project vision and requirements; prioritize features; communicate with stakeholders and team. | Ensure the project delivers value and aligns with user and business goals. |
 | **Scrum Master**       | Facilitate Agile ceremonies; remove blockers; promote Agile                                          |Ensures smooth Agile workflow, removes blockers for the team, and promotes effective collaboration, which helps the project stay on schedule and maintain high productivity.|
 
+## UI Component Patterns
+
+### 1. Navbar
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+
+### 2. Property Card
+-  Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+### 3. Footer
+- Site links
+- Company information
+- Social media links
+- Copyright information
+
+
   
